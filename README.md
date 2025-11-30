@@ -2,8 +2,6 @@
 
 A real-time 2-player fish game developed in Python using OpenGL. Players control their fish in a dynamic aquarium, collect green points to grow and score, and avoid red points that reduce the opponent's score. The game features interactive controls, animated bubbles, wavy water, and an engaging gameplay experience.
 
-
-
 ## Features
 
 - **Multiplayer Gameplay**
@@ -19,7 +17,14 @@ A real-time 2-player fish game developed in Python using OpenGL. Players control
 - **Game Over Conditions**
   - A player wins when their score reaches 10 or the opponent’s score falls below 0
 
+## Screenshots
 
+### Gameplay
+![View](View.jpeg)  
+*Player 1 (Blue) and Player 2 (Purple) navigating the aquarium*
+
+![View2](View2.jpeg)  
+*Green points increase score; red points reduce opponent's score*
 
 ## Tools & Technologies
 
@@ -27,10 +32,8 @@ A real-time 2-player fish game developed in Python using OpenGL. Players control
 - **Graphics Library:** PyOpenGL (OpenGL, GLUT, GLU)  
 - **Platform:** Windows / Linux / Mac
 
-
-
 ## Installation
 
 1. Clone the repository:
    ```bash
-   https://github.com/nowshinreza/Multiplayer-Player-Fish-Eating-Game-using-OpenGL-in-Python.git
+   git clone https://github.com/nowshinreza/Multiplayer-Player-Fish-Eating-Game-using-OpenGL-in-Python.git
