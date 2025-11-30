@@ -2,7 +2,7 @@
 
 A real-time 2-player fish game developed in Python using OpenGL. Players control their fish in a dynamic aquarium, collect green points to grow and score, and avoid red points that reduce the opponent's score. The game features interactive controls, animated bubbles, wavy water, and an engaging gameplay experience.
 
----
+
 
 ## Features
 
@@ -19,7 +19,7 @@ A real-time 2-player fish game developed in Python using OpenGL. Players control
 - **Game Over Conditions**
   - A player wins when their score reaches 10 or the opponent’s score falls below 0
 
----
+
 
 ## Tools & Technologies
 
@@ -27,7 +27,7 @@ A real-time 2-player fish game developed in Python using OpenGL. Players control
 - **Graphics Library:** PyOpenGL (OpenGL, GLUT, GLU)  
 - **Platform:** Windows / Linux / Mac
 
----
+
 
 ## Installation
 
